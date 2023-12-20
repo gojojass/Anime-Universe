@@ -221,6 +221,15 @@ section.first>div :nth-child(2) {
         justify-content: center;
         gap: 16px;
     }
+    .gs {
+        padding: 1px 15px;
+        font-size: 14px;
+    }
+    .main input {
+        padding: 4px 21px;
+        font-size: 10px;
+
+    }
 
     .faq h2 {
         text-align: center;
