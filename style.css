@@ -184,6 +184,15 @@ section.first>div :nth-child(2) {
     margin: 34px auto;
     cursor: pointer;
 }
+ #naruto1 {
+    height: 300px;
+    width: 500px;
+ }
+
+
+
+
+
 @media screen and (max-width: 1000px) {
 
     nav{
