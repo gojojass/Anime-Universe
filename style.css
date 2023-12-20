@@ -184,7 +184,7 @@ section.first>div :nth-child(2) {
     margin: 34px auto;
     cursor: pointer;
 }
-@media screen and (max-width: 1500px) {
+@media screen and (max-width: 1000px) {
 
     nav{
         max-width: 90vw;
