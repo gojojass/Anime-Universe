@@ -242,13 +242,10 @@ section.first>div :nth-child(2) {
         font-size: 32px;
     }
 
-     .faqbox {
-        font-size: 15px;
-        padding: 1opx;
-        max-width: 20vw;
-
-     }
-     
+    footer {
+        max-width: 90vw;
+        padding: 75px 0;
+    }
 
 
     }
