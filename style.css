@@ -244,8 +244,8 @@ section.first>div :nth-child(2) {
 
      .faqbox {
         font-size: 15px;
-        padding: 19px;
-        max-width: 45vw;
+        padding: 1opx;
+        max-width: 20vw;
 
      }
      
