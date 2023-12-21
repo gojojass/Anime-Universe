@@ -184,10 +184,7 @@ section.first>div :nth-child(2) {
     margin: 34px auto;
     cursor: pointer;
 }
- #naruto1 {
-    height: 300px;
-    width: 500px;
- }
+
 
 
 
@@ -244,10 +241,17 @@ section.first>div :nth-child(2) {
         text-align: center;
         font-size: 32px;
     }
-}
+
      .faqbox {
         font-size: 15px;
         padding: 19px;
         max-width: 45vw;
 
      }
+     #naruto1 {
+        height: 200px;
+        width: 350pxpx;
+     }
+
+
+    }
